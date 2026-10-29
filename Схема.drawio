@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Страница-1">
+    <mxGraphModel dx="2881" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="UThdTAODtbka0-7KYDi0-0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="120" x="160" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="Конец" vertex="1">
+          <mxGeometry height="40" width="120" x="150" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-6" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UThdTAODtbka0-7KYDi0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UThdTAODtbka0-7KYDi0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&amp;nbsp;Ввод n, x&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="140" x="150" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-9" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UThdTAODtbka0-7KYDi0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="sin_x = sin(x);&lt;div&gt;power = sin_x;&lt;/div&gt;&lt;div&gt;sum = 0;&lt;/div&gt;&lt;div&gt;k = 1;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="120" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-7" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UThdTAODtbka0-7KYDi0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="UThdTAODtbka0-7KYDi0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-10" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UThdTAODtbka0-7KYDi0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-13" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UThdTAODtbka0-7KYDi0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-8" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;pre style=&quot;font-family: &amp;quot;Cascadia Mono&amp;quot;; font-size: 9pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;int&lt;/span&gt; k = 1; k &amp;lt;= n; k++&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="120" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UThdTAODtbka0-7KYDi0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="UThdTAODtbka0-7KYDi0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre style=&quot;font-size: 9pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;sum += power;&lt;br&gt;power *= sin_x;&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="-80" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-15" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UThdTAODtbka0-7KYDi0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UThdTAODtbka0-7KYDi0-14" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Вывод&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Cascadia Mono&amp;quot;; font-size: 9pt; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;n, sum&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="360" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
